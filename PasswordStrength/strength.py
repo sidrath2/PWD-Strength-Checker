@@ -108,5 +108,5 @@ supercomputer_crack_time = time_to_crack(calc, 1_000_000_000_000_000)  # Superco
 print ("Entropy: ", calc)
 print (strength)
 print ("Online crack time:", online_crack_time)
-print("Offline crack time", offline_crack_time)
+print("Offline crack time:", offline_crack_time)
 print("Supercomputer crack time:", supercomputer_crack_time)
